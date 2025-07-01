@@ -1,0 +1,1 @@
+This repository is dedicated to all students and researchers who find themselves interested in the work developed in my final project, and ant to reproduct it or to improve what has already been done.
